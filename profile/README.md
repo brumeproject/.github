@@ -1,0 +1,16 @@
+### Welcome 👋
+
+Brume Wallet is a non-custodial open source multi-chain wallet with an innovative off-chain privacy architecture based on a built-in integration of Tor. Tor enables user's personal information (such as IP addresses) to be completely isolated from third-parties.
+
+#### Our main projects
+- [Echalote](https://github.com/hazae41/echalote) / Tor in the browser using JS + WebAssembly
+
+#### Our WebAssembly libraries
+- [Berith](https://github.com/hazae41/berith) / WebAssembly port of Dalek's Ed25519 and X25519, Rust implementations of Ed25519 signatures and X25519 key exchange
+- [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RustCrypto's RSA, a Rust implementation of RSA encryption and signatures
+- [Zepar](https://github.com/hazae41/zepar) / WebAssembly port of RustCrypto's AES + CTR, Rust implementations of AES encryption with CTR mode
+- [Morax](https://github.com/hazae41/morax) / WebAssembly port of RustCrypto's SHA1, a Rust implementation of SHA-1 hashing.
+- [Foras](https://github.com/hazae41/foras) / WebAssembly port of Rust's flate2, a Rust implementation of Deflate, Gzip, and Zlib compressions
+
+#### Our React libraries
+- [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library
