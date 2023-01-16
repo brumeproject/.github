@@ -7,6 +7,11 @@ Brume Wallet is a non-custodial open-source wallet with an innovative off-chain 
 
 #### Our zero-copy libraries
 - [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web 🏎️ (JS + WebAssembly)
+- [Cadenas](https://github.com/hazae41/cadenas) / Zero-copy TLS protocol for the web 🏎️ (JS + WebAssembly)
+- [Fleche](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web 🏎️ (JS + WebAssembly)
+- [X509](https://github.com/hazae41/x509) / Zero-copy X.509 certificates for the web 🏎️
+- [ASN1](https://github.com/hazae41/asn1) / Zero-copy ASN.1 <=> DER encoding for the web 🏎️
+- [Binary](https://github.com/hazae41/binary) / Zero-copy bytes reader and writer 🏎️
 
 #### Our React libraries
 - [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+70 ⭐)
