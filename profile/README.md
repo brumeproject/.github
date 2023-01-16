@@ -3,7 +3,7 @@
 Brume Wallet is a non-custodial open-source wallet with an innovative off-chain privacy architecture based on a built-in integration of Tor. Tor enables user's personal information (such as IP addresses) to be completely isolated from third-parties.
 
 #### Our main projects
-- [Brume Wallet](https://github.com/brume-wallet/brume-wallet) / The first private Ethereum wallet based on a built-in Tor protocol
+- [Brume Wallet](https://github.com/brume-wallet/brume-wallet) / The first private Ethereum wallet with built-in Tor
 
 #### Our zero-copy libraries
 - [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web 🏎️ (JS + WebAssembly)
