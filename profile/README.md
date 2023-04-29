@@ -1,6 +1,6 @@
 <img width="500" src="https://user-images.githubusercontent.com/4405263/235300182-bcc6d800-fc3c-4d37-b2c8-ead6df5e97bb.png"/>
 
-Brume Wallet is a non-custodial Ethereum wallet with a built-in integration of Tor
+Brume Wallet is a non-custodial and private Ethereum wallet with a built-in integration of Tor
 
 ### TLDR
 - Anonymous requests using Tor, no installation needed, each wallet address has its own IP address
