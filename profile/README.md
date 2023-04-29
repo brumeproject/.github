@@ -12,8 +12,14 @@ Brume Wallet is a non-custodial and private Ethereum wallet with a built-in inte
 
 Brume Wallet sends your transactions through the Tor network (the dark web), so people at the end of the pipe can't use your IP address to: 
 - Know your location and ISP
-- Link your multiple identities together
+- Track you and link your multiple identities together
 - Send your IP address to people you don't like
+
+Metamask sends your IP address and your wallet address to third-parties (RPC, Coingecko, Etherscan)
+
+Those third-party can track you, even if you are using on-chain privacy tools such as Aztec Network or Tornado Cash
+
+<img width="762" src="https://user-images.githubusercontent.com/111573119/201625137-293eec93-a6c9-43fd-8eda-56dea0c8e00e.png">
 
 ### Our main projects
 - [Brume Wallet](https://github.com/brume-wallet/wallet) / The first private Ethereum wallet with built-in Tor
