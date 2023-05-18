@@ -23,7 +23,7 @@ They can track you even if you are using on-chain privacy tools such as Aztec Ne
 <img width="762" src="https://user-images.githubusercontent.com/111573119/201625137-293eec93-a6c9-43fd-8eda-56dea0c8e00e.png">
 
 ### Our main projects
-- [Brume Wallet](https://github.com/brume-wallet/wallet) / The first private Ethereum wallet with built-in Tor
+- [Brume Wallet](https://github.com/brume-wallet/wallet) / The private Ethereum wallet with built-in Tor
 - [Brume Logs](https://github.com/brume-wallet/logs) / The website to check if your wallet leaks your IP address
 
 ### Our main libraries
