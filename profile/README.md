@@ -1,6 +1,6 @@
 # Brume Wallet ☁️
 
-A non-custodial and private Ethereum wallet with a built-in integration of Tor
+A non-custodial and private Ethereum wallet with a built-in implementation of the Tor network
 
 ### TLDR
 - Anonymous requests using Tor, no installation needed, each wallet address has its own IP address
