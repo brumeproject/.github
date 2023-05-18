@@ -6,7 +6,7 @@ A non-custodial and private Ethereum wallet with a built-in implementation of th
 - Anonymous requests using Tor, no installation needed, each wallet address has its own IP address
 - Built for strong privacy and supply-chain hardened
 - Available as an extension and on a website
-- Better UX and features than your average wallet
+- Pleasant user experience
 - Made by french cypherpunks
 
 ### I don't understand that Tor thing
