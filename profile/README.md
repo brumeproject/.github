@@ -22,6 +22,24 @@ They can track you even if you are using on-chain privacy tools such as Aztec Ne
 
 <img width="762" src="https://user-images.githubusercontent.com/111573119/201625137-293eec93-a6c9-43fd-8eda-56dea0c8e00e.png">
 
+## Getting started
+
+You can use Brume Wallet as an extension and on a website
+
+### Using the website
+
+- Click here https://wallet.brume.money
+
+### Installing the extension
+
+#### Chrome / Brave / Chromium
+
+- [Click here](https://chrome.google.com/webstore/detail/brume-wallet/oljgnlammonjehmmfahdjgjhjclpockd)
+
+#### Firefox
+
+- [Click here](https://github.com/brumewallet/wallet/releases/latest/download/firefox.xpi) or download the `firefox.xpi` file on the [release page](https://github.com/brumewallet/wallet/releases)
+
 ### Our main projects
 - [Brume Wallet](https://github.com/brume-wallet/wallet) / The private Ethereum wallet with built-in Tor
 - [Brume Logs](https://github.com/brume-wallet/logs) / The website to check if your wallet leaks your IP address
