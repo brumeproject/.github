@@ -2,14 +2,14 @@
 
 A non-custodial and private Ethereum wallet with a built-in implementation of the Tor network
 
-### TLDR
+## TLDR
 - Anonymous requests using Tor, no installation needed, each wallet address has its own IP address
 - Built for strong privacy and supply-chain hardened
 - Available as an extension and on a website
 - Pleasant user experience
 - Made by french cypherpunks
 
-### I don't understand that Tor thing
+## I don't understand that Tor thing
 
 Brume Wallet sends your transactions through the Tor network (the dark web), so people at the end of the pipe can't use your IP address to: 
 - Know your location and ISP
@@ -39,6 +39,8 @@ You can use Brume Wallet as an extension and on a website
 #### Firefox
 
 - [Click here](https://github.com/brumewallet/wallet/releases/latest/download/firefox.xpi) or download the `firefox.xpi` file on the [release page](https://github.com/brumewallet/wallet/releases)
+
+## Our projects
 
 ### Our main projects
 - [Brume Wallet](https://github.com/brume-wallet/wallet) / The private Ethereum wallet with built-in Tor
