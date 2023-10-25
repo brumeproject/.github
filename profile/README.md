@@ -40,7 +40,7 @@ All our work is **fully open-source**, MIT licensed, and reproducible. And we wi
 
 Brume Wallet sends your transactions through the Tor network (the dark web), so people at the end of the pipe can't use your IP address to: 
 - Know your location and ISP
-- Track you and link your multiple wallet identities together
+- Track you and link your multiple identities together
 - Send your IP address to people you don't like
 
 Traditional wallets send your IP address and your wallet address to third-parties (RPC, Coingecko, Etherscan).
