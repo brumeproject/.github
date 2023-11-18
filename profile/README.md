@@ -14,17 +14,17 @@ The private Ethereum wallet with built-in Tor
 
 Brume Wallet is an **Ethereum wallet** (for now), whose killer feature is a built-in implementation of the Tor protocol (the dark net), that makes **all your network requests go through the Tor network**, such that the people at the end of the pipe **can't use your IP address to track you or censor you**.
 
-By using traditional wallets, your IP address is sent to multiple third-party services, who often have access to your multiple wallet addresses too, so they can use these informations to track you and your wallets, and/or censor your transactions.
+By using traditional wallets, your IP address is sent to multiple third-party services, who often have access to your multiple wallet addresses too, so they can use this information to track you and your wallets, and/or censor your transactions.
 
 Brume Wallet prevents that, and does even more in terms of privacy and security.
 
-This project was launched at the privacy-centric EthBrno hackathon, 2022 edition. It won the first place and the design award.
+This project was launched at the privacy-centric EthBrno hackathon, 2022 edition. It won first place and the design award.
 
 Our team is made of two cypherpunks, Haz and Gabari, who both have a strong background in privacy and security
 
-- Haz is a software engineer and pentester with an impressing GitHub profile, he found high and critical security vulnerabilities in protocols such as Tor, WalletConnect, TornadoCash, and in companies such as FleekHQ.
+- Haz is a software engineer and pentester with an impressive GitHub profile, he found high and critical security vulnerabilities in protocols such as Tor, WalletConnect, TornadoCash, and in companies such as FleekHQ.
 
-- Gabari has worked for several DAOs in the top-10 by market cap, and is now at the Head of Marketing & Communication at MangroveDAO, the First Programmable DEX.
+- Gabari has worked for several DAOs in the top-10 by market cap, and is now the Head of Marketing & Communication at MangroveDAO, the First Programmable DEX.
 
 We believe privacy and security are the foundations of the crypto ecosystem, and that this should remain true, especially for the Ethereum ecosystem. The story is that we used multiple wallets and never found the right shoe in terms of privacy and security, so **we decided to make our own**.
 
