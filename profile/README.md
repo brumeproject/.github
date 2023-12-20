@@ -9,6 +9,7 @@ The private Ethereum wallet with built-in Tor
 - Won EthBrno 2022 hackathon (+ design award)
 - Made by two French cypherpunks
 - Almost the same features as MetaMask
+- Supply-chain hardened
 
 ## About 
 
