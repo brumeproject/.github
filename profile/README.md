@@ -48,8 +48,6 @@ Traditional wallets send your IP address and your wallet address to third-partie
 
 They can track you even if you are using on-chain privacy tools such as mixers and private blockchains.
 
-<img width="762" src="https://user-images.githubusercontent.com/111573119/201625137-293eec93-a6c9-43fd-8eda-56dea0c8e00e.png">
-
 ## Our projects
 
 ### Our main projects
