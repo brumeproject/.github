@@ -50,24 +50,6 @@ They can track you even if you are using on-chain privacy tools such as mixers a
 
 <img width="762" src="https://user-images.githubusercontent.com/111573119/201625137-293eec93-a6c9-43fd-8eda-56dea0c8e00e.png">
 
-## Getting started
-
-You can use Brume Wallet as an extension and on a website
-
-### Using the website
-
-- Click here https://wallet.brume.money
-
-### Installing the extension
-
-#### Chrome / Brave / Chromium
-
-- [Click here](https://chrome.google.com/webstore/detail/brume-wallet/oljgnlammonjehmmfahdjgjhjclpockd)
-
-#### Firefox
-
-- [Click here](https://github.com/brumewallet/wallet/releases/latest/download/firefox.xpi)
-
 ## Our projects
 
 ### Our main projects
