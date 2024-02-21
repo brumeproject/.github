@@ -50,11 +50,4 @@ They can track you even if you are using on-chain privacy tools such as mixers a
 
 ## Our projects
 
-### Our main projects
-- [Brume Wallet](https://github.com/brume-wallet/wallet) / The private Ethereum wallet with built-in Tor
-- [Brume Logs](https://github.com/brume-wallet/logs) / The website to check if your wallet leaks your IP address
-
-### Our main libraries
-- [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web (JS + WebAssembly)
-- [Cadenas](https://github.com/hazae41/cadenas) / Zero-copy TLS protocol for the web (JS + WebAssembly)
-- [Fleche](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web (JS + WebAssembly)
+- [Wallet](https://github.com/brume-wallet/wallet) / The private Ethereum wallet with built-in Tor
