@@ -19,14 +19,9 @@ By using traditional wallets, your IP address is sent to multiple third-party se
 
 Brume Wallet prevents that, and does even more in terms of privacy and security.
 
-This project was launched at the privacy-centric EthBrno hackathon, 2022 edition. It won first place and the design award.
+This project was launched by Le Hash at the privacy-centric EthBrno hackathon, 2022 edition. It won first place and the design award. It is supported and developed by cypherpunks who have a strong background in privacy and security.
 
-Our team is made of two cypherpunks, Haz and Gabari, who both have a strong background in privacy and security
-
-- Haz is a software engineer and pentester with an impressive GitHub profile, he found high and critical security vulnerabilities in protocols such as Tor, WalletConnect, TornadoCash, and in companies such as FleekHQ.
-
-- Gabari has worked for several DAOs in the top-10 by market cap, and is now the Head of Marketing & Communication at MangroveDAO, the First Programmable DEX.
-
+Le Hash is a software engineer and pentester with an impressive GitHub profile, he found high and critical security vulnerabilities in protocols such as Tor, WalletConnect, TornadoCash, and in companies such as FleekHQ.
 We believe privacy and security are the foundations of the crypto ecosystem, and that this should remain true, especially for the Ethereum ecosystem. The story is that we used multiple wallets and never found the right shoe in terms of privacy and security, so **we decided to make our own**.
 
 This project allows us to make privacy and security important again, with a scheme we like to call "**zero-cost privacy**", that is, privacy with almost no cost for the user in terms of UX and features.
