@@ -1,8 +1,8 @@
-# Brume ☁️
+# Our projects
 
-The private Ethereum wallet with built-in Tor
+## Wallet — The private Ethereum wallet with built-in Tor
 
-## TLDR
+### TLDR
 - Anonymous requests using Tor (the dark net)
 - Built for strong zero-cost privacy and security
 - Available as an extension and on a website
@@ -11,7 +11,7 @@ The private Ethereum wallet with built-in Tor
 - Almost the same features as MetaMask
 - Supply-chain hardened
 
-## About 
+### About 
 
 Brume Wallet is an **Ethereum wallet** (for now), whose killer feature is a built-in implementation of the Tor protocol (the dark net), that makes **all your network requests go through the Tor network**, such that the people at the end of the pipe **can't use your IP address to track you or censor you**.
 
@@ -32,7 +32,7 @@ For example, we fixed the privacy and security of Ledger and WalletConnect by ma
 
 All our work is **fully open-source**, MIT licensed, and reproducible. And we will soon provide a best-effort distribution system by publishing the hashes of the builds to IPFS and Ethereum.
 
-## I don't understand that Tor thing
+### I don't understand that Tor thing
 
 Brume Wallet sends your transactions through the Tor network (the dark web), so people at the end of the pipe can't use your IP address to: 
 - Know your location and ISP
@@ -42,7 +42,3 @@ Brume Wallet sends your transactions through the Tor network (the dark web), so 
 Traditional wallets send your IP address and your wallet address to third-parties (RPC, Coingecko, Etherscan).
 
 They can track you even if you are using on-chain privacy tools such as mixers and private blockchains.
-
-## Our projects
-
-- [Wallet](https://github.com/brume-wallet/wallet) / The private Ethereum wallet with built-in Tor
