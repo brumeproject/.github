@@ -1,6 +1,8 @@
 # Our projects
 
-## Wallet — The private Ethereum wallet with built-in Tor
+## Wallet
+
+The private Ethereum wallet with built-in Tor
 
 ### TLDR
 - Anonymous requests using Tor (the dark net)
