@@ -5,9 +5,9 @@
                                                                                                                                                     
 # Our projects
 
-## Wallet
+## Brume Wallet
 
-
+The only Ethereum wallet with maximum privacy and security
 
 ### TLDR
 - Anonymous requests using Tor (the dark net)
