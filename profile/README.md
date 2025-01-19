@@ -1,8 +1,13 @@
+<div align="center">
+<img src="https://github.com/user-attachments/assets/752b03f0-da33-4856-99f0-9f44916dfc66" />
+</div>
+                                                                                                                                            
+                                                                                                                                                    
 # Our projects
 
 ## Wallet
 
-The private Ethereum wallet with built-in Tor
+
 
 ### TLDR
 - Anonymous requests using Tor (the dark net)
