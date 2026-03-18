@@ -6,10 +6,10 @@ Our website
 
 Our artworks
 
-### /[wallet](https://github.com/brumeproject/wallet)
-
-The wallet with maximum privacy and security
-
 ### /[wallet2](https://github.com/brumeproject/wallet2)
 
 The wallet with maximum security and privacy
+
+### /[wallet](https://github.com/brumeproject/wallet)
+
+The wallet with maximum privacy and security
