@@ -1,6 +1,6 @@
 ### /[wallet2](https://github.com/brumeproject/wallet2)
 
-The wallet with maximum security and privacy
+The secure and private wallet
 
 ### /[wallet](https://github.com/brumeproject/wallet)
 
